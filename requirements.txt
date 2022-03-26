@@ -1,4 +1,4 @@
-aiohttp
+https://github.com/pyrogram/pyrogram/archive/refs/tags/v1.2.0.zip
 anytree
 https://github.com/Anshusharma75/jhamak/archive/refs/heads/master.zip
 appdirs
@@ -10,7 +10,6 @@ gitpython
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
-heroku3
 html-telegraph-poster
 js2py
 lk21
@@ -19,7 +18,6 @@ messages
 psutil
 psycopg2-binary
 pybase64
-pyrogram
 python-dotenv
 python-magic
 python-telegram-bot
@@ -30,7 +28,7 @@ https://github.com/Anshusharma75/jati/archive/refs/heads/master.zip
 telegraph
 tenacity
 TgCrypto
-https://github.com/hsjsa/tttool/archive/refs/tags/v1.1.0.zip
+https://github.com/hsjsa/tttool/archive/refs/heads/master.zip
 urllib3
 https://github.com/Anshusharma75/gandusaala/archive/refs/heads/master.zip
 quoters
