@@ -36,3 +36,4 @@ pyshorteners
 bs4
 natsort
 Pillow
+heroku3
